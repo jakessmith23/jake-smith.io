@@ -6,7 +6,7 @@ Optoelectronic and Quantum Technologies Master's Student at the University of Br
 A computer network scientist researching analytical, numerical, and event-based simulations of co-existing quantum-classical networks. Demonstrated delivery of related software tools for subtopics like CV-QKD rates, reconfigurable bandwidth networks, and a novel noise model capturing the impact of classical noise on polarization-encoded qubits. 
 
 ## Links to Projects
-This GitHub file is a consolidation of academic, professional, and personal projects authored by Jake Smith. 
+This GitHub file is a consolidation of academic, professional, and personal projects. The source code and any associated works authored by Jake Smith are available at the following links.
 - NetSquid simulation code for submission to PSC 2025 "Simulating Raman Scattering Impairments with Depolarization Noise in Quantum-Classical Links.": [coex-netsquid-study](https://github.com/jakessmith23/NetSquid-coexistence-study)
 - Numerical simulation of CV-QKD key rates: [cv-qkd](https://github.com/jakessmith23/cv-qkd-numerical-sim)
 - Reconfigurable bandwidth extension for SST: [reconfig-bw](https://github.com/jakessmith23/reconfig-bw)
