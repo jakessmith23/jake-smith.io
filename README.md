@@ -1,4 +1,4 @@
-# jake_smith.io
+# jake-smith.io
 
 ## About
 Optoelectronic and Quantum Technologies Master's Student at the University of Bristol and External Researcher at Politecnico di Torino.
