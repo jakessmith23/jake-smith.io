@@ -8,6 +8,7 @@ A computer network scientist researching analytical, numerical, and event-based 
 ## Links to Projects
 This GitHub file is a consolidation of academic, professional, and personal projects. The source code and any associated works authored by Jake Smith are available at the following links.
 - NetSquid simulation code for submission to PSC 2025 "Simulating Raman Scattering Impairments with Depolarization Noise in Quantum-Classical Links.": [coex-netsquid-study](https://github.com/jakessmith23/NetSquid-coexistence-study)
+- NetSquid instructional labs for Quantum Communication and Networks at Politecico di Torino [NS_instructional_labs](https://github.com/jakessmith23/NS_instruction_labs)
 - Numerical simulation of CV-QKD key rates: [cv-qkd](https://github.com/jakessmith23/cv-qkd-numerical-sim)
 - Reconfigurable bandwidth extension for SST: [reconfig-bw](https://github.com/jakessmith23/reconfig-bw)
 - USDA ML model to predict evapotranspiration: [USDA-evapo](https://github.com/jakessmith23/USDA-evapotranspiration-regr)
