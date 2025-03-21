@@ -11,6 +11,7 @@ This GitHub file is a consolidation of academic, professional, and personal proj
 - NetSquid instructional labs for Quantum Communication and Networks at Politecico di Torino [NS_instructional_labs](https://github.com/jakessmith23/NS_instruction_labs)
 - Numerical simulation of CV-QKD key rates: [cv-qkd](https://github.com/jakessmith23/cv-qkd-numerical-sim)
 - Reconfigurable bandwidth extension for SST: [reconfig-bw](https://github.com/jakessmith23/reconfig-bw)
+- Cookie synchronization web crawl and analysis: [cookie_sync](https://github.com/jakessmith23/Cookie-Sync-Endpoints)
 - USDA ML model to predict evapotranspiration: [USDA-evapo](https://github.com/jakessmith23/USDA-evapotranspiration-regr)
 
 
